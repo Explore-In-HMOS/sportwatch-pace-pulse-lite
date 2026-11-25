@@ -2,7 +2,7 @@
 
 # PacePulseLite
 
-This is a comprehensive fitness tracking application for running activities with advanced sensor integration and real-time health monitoring features, designed for HarmonyOS NEXT lite-wearable devices. It leverages SensorKit for pedometer and heart rate monitoring.
+This is a comprehensive fitness tracking application for running activities with advanced sensor integration and real-time health monitoring features, designed for HarmonyOS lite-wearable devices. It leverages SensorKit for pedometer and heart rate monitoring.
 
 # Preview
 
